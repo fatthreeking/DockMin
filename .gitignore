@@ -1,0 +1,39 @@
+# ==========================================
+# macOS System Files
+# ==========================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# ==========================================
+# Swift / macOS Build & Package Artifacts
+# ==========================================
+DockMin
+DockMin.app/
+*.dmg
+*.zip
+*.dSYM/
+*.o
+*.swiftdoc
+*.swiftmodule
+*.swiftsourceinfo
+.build/
+DerivedData/
+
+# ==========================================
+# Logs & Temporary Debug Files
+# ==========================================
+*.log
+/tmp/dockmin.*
+
+# ==========================================
+# Editors & IDEs
+# ==========================================
+.idea/
+.vscode/
+*.xcworkspace
+*.xcuserdata
